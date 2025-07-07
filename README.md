@@ -47,8 +47,11 @@ BCET Bites is a responsive and interactive canteen management system designed to
 
 ## **🛠 Tech Stack**
 Area	Technology Used
+
 Frontend:- HTML, CSS, JavaScript, React.js
+
 Backend:- Node.js, Express.js
+
 Database:-	MongoDB
 
 
