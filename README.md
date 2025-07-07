@@ -14,29 +14,36 @@ BCET Bites is a responsive and interactive canteen management system designed to
 🧑‍💻 Admin Panel
 ![Admin Panel](https://github.com/Roy1Priyanka/Canteen_Management/blob/main/Admin_panel.jpg)
 
+✅ Features
+👨‍🎓 For Students & Staff (User Side):
+🖥️ User-Friendly Interface – Clean and responsive UI for seamless navigation and ordering.
 
-🚀 Features
-🧑‍🍳 User Side:
-Browse and view delicious food items
+🍱 Dynamic Menu Display – View a categorized list of available food items with images and details.
 
-Add items to cart
+➕ Add to Cart – Easily add or remove items and manage item quantities.
 
-Place orders with ease
+💰 Live Cart Total – Real-time update of subtotal, delivery charges, and total amount.
 
-Responsive UI for mobile and desktop
+🎟️ Promo Code Input – Option to enter promo codes (demo feature).
 
-🛠️ Admin Side:
-Add new food items (with image, category, and price)
+📦 Order Placement – Smooth checkout process with a single click.
 
-View and manage listed items
+📱 Mobile Responsive – Fully usable on both desktop and mobile devices.
 
-Track customer orders
+🧑‍💻 For Admin (Admin Panel):
+➕ Add Food Items – Upload images, add descriptions, set prices, and assign categories.
+
+📃 List & Manage Items – View all food items in the system and update or delete as needed.
+
+📬 View Orders – Monitor incoming orders in real-time.
+
+📊 Admin Dashboard (planned) – Scope for future analytics and inventory tracking.
 
 🛠 Tech Stack
 Area	Technology Used
-Frontend	HTML, CSS, JavaScript, React.js
-Backend	Node.js, Express.js
-Database	MongoDB
+Frontend:- HTML, CSS, JavaScript, React.js
+Backend:- Node.js, Express.js
+Database:-	MongoDB
 
 
 📌 Future Enhancements
