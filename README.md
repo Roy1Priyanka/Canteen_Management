@@ -40,11 +40,20 @@ Database	MongoDB
 
 
 📌 Future Enhancements
-User authentication (Login/Signup)
 
-Online payment integration
+📦 Order History & Status Tracking:
+Allow users to view past orders and track their current order status in real-time.
 
-Order history & status updates
+📊 Enhanced Dashboard Analytics:
+Admin dashboard can display sales stats, most-ordered items, and revenue charts.
 
-Enhanced dashboard analytics
+🍽️ Multi-Canteen Support:
+Extend the system to handle multiple canteen branches within one platform.
+
+📱 Convert to Mobile App (PWA or Native):
+Convert the web app into a mobile application using React Native or Progressive Web App (PWA) approach for a smoother and accessible user experience.
+
+⏲️ Canteen Stockout/Closed Timer:
+Add a countdown timer or banner to show when the canteen is closed or when items are out of stock, improving user clarity and reducing failed orders.
+
 
