@@ -2,6 +2,7 @@
 BCET Bites is a responsive and interactive canteen management system designed to simplify food ordering for students and staff. It features a customer-facing food ordering interface and a backend admin panel for managing items and orders.
 
 📸 Screenshots
+
 🏠 Home Page
 ![Home Page](https://github.com/Roy1Priyanka/Canteen_Management/blob/main/Home_page.jpg)
 
